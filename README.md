@@ -10,9 +10,6 @@ Open source administration GUI for Roblox.
 ## Nice executor (:s command)
 ![image](https://github.com/0x32-l3git/SolarAdmin/assets/71154206/1fc6b783-8caa-4a8a-b2df-134b69ba53b5)
 
-## Huge command hub!
-![image](https://github.com/0x32-l3git/SolarAdmin/assets/71154206/ba809095-0f71-41d1-91b8-735c6e915932)
-
 ## Server control!
 
 ![image](https://github.com/0x32-l3git/SolarAdmin/assets/71154206/969b9a7a-ab06-4d0e-9391-458cc5564ca7)
