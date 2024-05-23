@@ -1,4 +1,4 @@
-# SolarAdmin
+# Sol's admin (solar admin)
 Open source administration GUI for Roblox.
 
 ## Sleek loading animation!
